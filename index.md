@@ -31,6 +31,8 @@ One-shot voice conversion (VC) is a method that enables the transformation betwe
     <!-- Add more rows as needed -->
   </tbody>
 </table>
+
+
 | **Source** | **Target** | **Ours Converted** | **FreeVC** | **YourTTS** | **VQMIVC** |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | <audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/src.wav" controls preload></audio> | <audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/tgt.wav" controls preload></audio> | <audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/Ours.wav" controls preload></audio> |<audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/FreeVC.wav" controls preload></audio> |<audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/YourTTS.wav" controls preload></audio> |<audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/VQMIVC.wav" controls preload></audio> 
