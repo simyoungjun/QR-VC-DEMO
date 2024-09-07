@@ -9,6 +9,7 @@ This page is the official demo for the paper "SKQVC: One-Shot Voice Conversion b
 ### Abstract
 One-shot voice conversion (VC) is a method that enables the transformation between any two speakers using only a single target speaker utterance. Existing methods often rely on complex architectures and external speaker embeddings derived from pre-trained speaker verification (SV) models to enhance the fidelity in converted speech. Recent works employing K-means quantization (KQ) with self-supervised learning (SSL) features have demonstrated effectiveness in capturing content information. However, they often struggle to preserve speaking variation, including prosodic details and phonetic variation that change within an utterance, particularly when using smaller codebooks. In this work, we propose a simple yet effective one-shot VC model using characteristics of SSL features and speech attributes. Our approach addresses the issue of losing speaking variation, enabling high-fidelity voice conversion trained with only reconstruction-based losses. We demonstrated the performance of our model across six evaluation metrics, and the experiments highlight the benefits of the speaking variation compensation method.
 
+### DEMO 1. (VCTK Seen Source and Target, both of them are random sampled, and converted by only one utterance)
 
 | **Source** | **Target** | **Ours Converted** | **FreeVC** | **YourTTS** | **VQMIVC** |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -30,7 +31,7 @@ One-shot voice conversion (VC) is a method that enables the transformation betwe
 | --- | --- | --- | --- | --- | --- |
 
 
-### DEMO ( Seen Source and Target, both of them are random sampled, and converted by only one utterance)
+### DEMO 2. (LibriTTS Unseen Source and Target, both of them are random sampled, and converted by only one utterance)
 
 | **Source** | **Target** | **Ours Converted** | **FreeVC** | **YourTTS** | **VQMIVC** |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -73,7 +74,7 @@ One-shot voice conversion (VC) is a method that enables the transformation betwe
 
 
 
-        <h2 id="demos">1. Demo: Intra-lingual Zero-shot Voice Conversion<a name="demos"></a></h2>
+        <h2 id="demos">DEMO 1. (VCTK Seen Source and Target, both of them are random sampled, and converted by only one utterance)<a name="demos"></a></h2>
         
 
         <table>
@@ -166,7 +167,7 @@ One-shot voice conversion (VC) is a method that enables the transformation betwe
 
 
 
-        <h2 id="demos">2. Demo: Cross-lingual Zero-shot Voice Conversion<a name="demos"></a></h2>
+        <h2 id="demos">DEMO 2. (LibriTTS Unseen Source and Target, both of them are random sampled, and converted by only one utterance)<a name="demos"></a></h2>
 
         <table>
             <thead>
