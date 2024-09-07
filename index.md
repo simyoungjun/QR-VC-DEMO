@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+This page is the official demo for the paper "SKQVC: One-Shot Voice Conversion by K-Means Quantization with Self-Supervised Speech Representations."
 
 
 ### Abstract
