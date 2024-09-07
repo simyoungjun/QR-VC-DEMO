@@ -51,9 +51,9 @@ One-shot voice conversion (VC) is a method that enables the transformation betwe
 | <audio src="all/SMOS/LibriTTS/src;7127_75947_000080_000000&tgt;1995_1837_000020_000000/src.wav" controls preload></audio> | <audio src="all/SMOS/LibriTTS/src;7127_75947_000080_000000&tgt;1995_1837_000020_000000/tgt.wav" controls preload></audio> | <audio src="all/SMOS/LibriTTS/src;7127_75947_000080_000000&tgt;1995_1837_000020_000000/Ours.wav" controls preload></audio> |<audio src="all/SMOS/LibriTTS/src;7127_75947_000080_000000&tgt;1995_1837_000020_000000/FreeVC.wav" controls preload></audio> |<audio src="all/SMOS/LibriTTS/src;7127_75947_000080_000000&tgt;1995_1837_000020_000000/YourTTS.wav" controls preload></audio> |<audio src="all/SMOS/LibriTTS/src;7127_75947_000080_000000&tgt;1995_1837_000020_000000/VQMIVC.wav" controls preload></audio> 
 | --- | --- | --- | --- | --- | --- |
 
-
 <!DOCTYPE html>
 <html lang="en-US">
+
 
 
 <body data-new-gr-c-s-check-loaded="14.1001.0" data-gr-ext-installed="">
@@ -63,24 +63,20 @@ One-shot voice conversion (VC) is a method that enables the transformation betwe
     </section>
 
     <section class="main-content">
-        <table border=0 frame=void rules=none>
-            <tr>
-                <td>
-                    <center><img src='fig/overview.png' width="40%"></center>
-                    <br>
-                    <center><span><b>Figure 1. Overview of Vec-Tok-VC+</b></span></center>
-                </td>
-            </tr>
-            <tr><br></tr>
-            <tr>
-                <td>
-                    <center><img src='fig/components.png' width="50%"></center>
-                    <br>
-                    <center><span><b>Figure 2. The details of Vec-Tok-VC+. (a): the residual-enhanced K-Means decoupler. (b): the dual-mode teacher guidance module. (c): the converter and multi-codebook progressive constraint.</b></span> </center>
-                </td>
-            </tr>
+       
+        <br><br>
+        <h2 id="abstract">Abstract<a name="abstract"></a></h2>
+        <p>Zero-shot voice conversion (VC) aims to transform source speech into arbitrary unseen target voice while keeping the linguistic content unchanged. 
+            Recent VC methods have made significant progress, but semantic losses in the decoupling process as well as training-inference mismatch still 
+            hinder conversion performance. In this paper, we propose Vec-Tok-VC+, a novel prompt-based zero-shot VC model improved from Vec-Tok Codec, 
+            achieving voice conversion given only a 3s target speaker prompt. We design a residual-enhanced K-Means decoupler to enhance the semantic content
+            extraction with a two-layer clustering process. Besides, we employ teacher-guided refinement to simulate the conversion process to eliminate the 
+            training-inference mismatch, forming a dual-mode training strategy. Furthermore, we design a multi-codebook progressive loss function to constrain
+            the layer-wise output of the model from coarse to fine to improve speaker similarity and content accuracy. Objective and subjective evaluations 
+            demonstrate that Vec-Tok-VC+ outperforms the strong baselines in naturalness, intelligibility, and speaker similarity.</p>
+        <br><br>
 
-        </table>
+       
         <br><br>
 
 
