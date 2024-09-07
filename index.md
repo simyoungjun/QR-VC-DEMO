@@ -8,7 +8,7 @@ layout: default
 <head>
     <style>
         .main-content {
-            max-width: 1200px; /* 원하는 최대 너비 */
+            max-width: 1800px; /* 원하는 최대 너비 */
             margin: 0 auto; /* 중앙 정렬 */
             padding: 0 20px; /* 좌우 패딩 */
         }
