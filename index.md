@@ -8,29 +8,6 @@ This page is the official demo for the paper "SKQVC: One-Shot Voice Conversion b
 
 ### Abstract
 One-shot voice conversion (VC) is a method that enables the transformation between any two speakers using only a single target speaker utterance. Existing methods often rely on complex architectures and external speaker embeddings derived from pre-trained speaker verification (SV) models to enhance the fidelity in converted speech. Recent works employing K-means quantization (KQ) with self-supervised learning (SSL) features have demonstrated effectiveness in capturing content information. However, they often struggle to preserve speaking variation, including prosodic details and phonetic variation that change within an utterance, particularly when using smaller codebooks. In this work, we propose a simple yet effective one-shot VC model using characteristics of SSL features and speech attributes. Our approach addresses the issue of losing speaking variation, enabling high-fidelity voice conversion trained with only reconstruction-based losses. We demonstrated the performance of our model across six evaluation metrics, and the experiments highlight the benefits of the speaking variation compensation method.
-<table style="table-layout: fixed; width: 100%;">
-  <thead>
-    <tr>
-      <th style="width: 10px;">Source</th>
-      <th style="width: 10px;">Target</th>
-      <th style="width: 10px;">Ours Converted</th>
-      <th style="width: 15px;">FreeVC</th>
-      <th style="width: 15x;">YourTTS</th>
-      <th style="width: 15x;">VQMIVC</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/src.wav" controls preload></audio></td>
-      <td><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/tgt.wav" controls preload></audio></td>
-      <td><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/Ours.wav" controls preload></audio></td>
-      <td><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/FreeVC.wav" controls preload></audio></td>
-      <td><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/YourTTS.wav" controls preload></audio></td>
-      <td><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/VQMIVC.wav" controls preload></audio></td>
-    </tr>
-    <!-- Add more rows as needed -->
-  </tbody>
-</table>
 
 
 | **Source** | **Target** | **Ours Converted** | **FreeVC** | **YourTTS** | **VQMIVC** |
