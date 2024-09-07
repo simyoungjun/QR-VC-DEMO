@@ -5,7 +5,15 @@ layout: default
 
 
 <html lang="en-US">
-
+<head>
+    <style>
+        .main-content {
+            max-width: 1200px; /* 원하는 최대 너비 */
+            margin: 0 auto; /* 중앙 정렬 */
+            padding: 0 20px; /* 좌우 패딩 */
+        }
+    </style>
+</head>
 
 
 <body data-new-gr-c-s-check-loaded="14.1001.0" data-gr-ext-installed="">
