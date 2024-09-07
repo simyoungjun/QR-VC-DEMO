@@ -11,12 +11,12 @@ One-shot voice conversion (VC) is a method that enables the transformation betwe
 <table style="table-layout: fixed; width: 100%;">
   <thead>
     <tr>
-      <th style="width: 15px;">Source</th>
-      <th style="width: 15px;">Target</th>
-      <th style="width: 15px;">Ours Converted</th>
+      <th style="width: 10px;">Source</th>
+      <th style="width: 10px;">Target</th>
+      <th style="width: 10px;">Ours Converted</th>
       <th style="width: 15px;">FreeVC</th>
-      <th style="width: 15px;">YourTTS</th>
-      <th style="width: 15px;">VQMIVC</th>
+      <th style="width: 15x;">YourTTS</th>
+      <th style="width: 15x;">VQMIVC</th>
     </tr>
   </thead>
   <tbody>
