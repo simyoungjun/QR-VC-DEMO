@@ -126,39 +126,39 @@ One-shot voice conversion (VC) is a method that enables the transformation betwe
                     <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 </tr>
                 <tr>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p228_268&tgt;p275_061/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p228_268&tgt;p275_061/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p228_268&tgt;p275_061/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p228_268&tgt;p275_061/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p228_268&tgt;p275_061/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p228_268&tgt;p275_061/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 </tr>
 
                 <tr>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p244_308&tgt;p276_276/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p244_308&tgt;p276_276/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p244_308&tgt;p276_276/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p244_308&tgt;p276_276/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p244_308&tgt;p276_276/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p244_308&tgt;p276_276/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p244_308&tgt;p276_276/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p244_308&tgt;p276_276/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p244_308&tgt;p276_276/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p244_308&tgt;p276_276/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p244_308&tgt;p276_276/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p244_308&tgt;p276_276/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 </tr>
 
                 <tr>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p274_100&tgt;p244_031/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p274_100&tgt;p244_031/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p274_100&tgt;p244_031/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p274_100&tgt;p244_031/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p274_100&tgt;p244_031/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p274_100&tgt;p244_031/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_100&tgt;p244_031/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_100&tgt;p244_031/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_100&tgt;p244_031/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_100&tgt;p244_031/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_100&tgt;p244_031/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_100&tgt;p244_031/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 </tr>
 
                 <tr>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p274_260&tgt;p274_101/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p274_260&tgt;p274_101/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p274_260&tgt;p274_101/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p274_260&tgt;p274_101/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p274_260&tgt;p274_101/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p274_260&tgt;p274_101/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_260&tgt;p274_101/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_260&tgt;p274_101/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_260&tgt;p274_101/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_260&tgt;p274_101/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_260&tgt;p274_101/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_260&tgt;p274_101/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 </tr>
 
             </tbody>
@@ -171,128 +171,87 @@ One-shot voice conversion (VC) is a method that enables the transformation betwe
         <table>
             <thead>
                 <tr>
-                    <th style="width: 300px; text-align: center;"><strong>Source speech</strong></th>
-                    <th style="width: 300px; text-align: center;"><strong>Target speaker</strong></th>
-                    <th style="width: 300px; text-align: center;"><strong>LM-VC</strong></th>
-                    <th style="width: 300px; text-align: center;"><strong>SEF-VC</strong></th>
-                    <th style="width: 300px; text-align: center;"><strong>Vec-Tok-VC+ (Our proposed)</strong></th>
+                    <th style="width: 300px; text-align: center;"><strong>Source</strong></th>
+                    <th style="width: 300px; text-align: center;"><strong>Target</strong></th>
+                    <th style="width: 300px; text-align: center;"><strong>Our Converted</strong></th>
+                    <th style="width: 300px; text-align: center;"><strong>FreeVC</strong></th>
+                    <th style="width: 300px; text-align: center;"><strong>YourTTS</strong></th>
+                    <th style="width: 300px; text-align: center;"><strong>VQMIVC</strong></th>
                 </tr>
             </thead>
 
             <tbody>
 
-
                 <tr>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/src/king_033_600486.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/target_n/vo_zhongli_friendship_04.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/LM-VC/zhongli/king_033_600486_vo_zhongli_friendship_04.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/SEF-VC/zhongli/king_033_600486.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/Proposed/zhongli/king_033_600486.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 </tr>
 
                 <tr>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/src/TIM_309.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/target_n/vo_zhongli_friendship_04.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/LM-VC/zhongli/TIM_309_vo_zhongli_friendship_04.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/SEF-VC/zhongli/TIM_309.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/Proposed/zhongli/TIM_309.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                </tr>
-              
-                <tr>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/src/hvd_701_1.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/target_n/LY-8.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/LM-VC/LY/hvd_701_1_LY.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/SEF-VC/LY/hvd_701_1_LY.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/Proposed/LY/hvd_701_1.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p240_246&tgt;p335_399/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 </tr>
 
                 <tr>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/src/king_033_600482.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/target_n/LY-8.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/LM-VC/LY/king_033_600482_LY.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/SEF-VC/LY/king_033_600482_LY.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/Proposed/LY/king_033_600482.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                </tr>
-
-
-                <tr>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/src/404042.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/target_n/00993_single.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/LM-VC/993/404042.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/SEF-VC/993/404042_993.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/Proposed/993/404042.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p246_092&tgt;p241_354/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 </tr>
 
                 <tr>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/src/0301001005.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/target_n/00993_single.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/LM-VC/993/0301001005.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/SEF-VC/993/0301001005.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/Proposed/993/0301001005.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p232_410&tgt;p308_187/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                </tr>
+                <tr>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p228_268&tgt;p275_061/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 </tr>
 
                 <tr>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/src/401092.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/target_n/TIM_315.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/LM-VC/TIM/401092.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/SEF-VC/TIM/401092.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/Proposed/TIM/401092.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p244_308&tgt;p276_276/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p244_308&tgt;p276_276/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p244_308&tgt;p276_276/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p244_308&tgt;p276_276/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p244_308&tgt;p276_276/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p244_308&tgt;p276_276/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 </tr>
 
                 <tr>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/src/0303001004.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/target_n/TIM_315.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/LM-VC/TIM/0303001004.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/SEF-VC/TIM/0303001004.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/Proposed/TIM/0303001004.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                </tr>
-            </tbody>
-        </table>
-
-
-
-
-
-        <h2 id="demos">3. Demo: Noise-robust Zero-shot Voice Conversion<a name="demos"></a></h2>
-
-        <table>
-            <thead>
-                <tr>
-                    <th style="width: 300px; text-align: center;"><strong>Source speech</strong></th>
-                    <th style="width: 300px; text-align: center;"><strong>Target speaker</strong></th>
-                    <!-- <th style="width: 300px; text-align: center;"><strong>SEF-VC</strong></th>
-                    <th style="width: 300px; text-align: center;"><strong>LM-VC</strong></th> -->
-                    <th style="width: 300px; text-align: center;"><strong>Vec-Tok-VC+ (Our proposed)</strong></th>
-                </tr>
-            </thead>
-
-            <tbody>
-                <tr>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/src/489.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/target_n/db1_002982.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <!-- <td style="width: 300px; text-align: center;"><audio src="" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="" controls="" preload="" style="width: 100%;"></audio></td> -->
-                    <td style="width: 300px; text-align: center;"><audio src="demos/Proposed/noise/489.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_100&tgt;p244_031/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_100&tgt;p244_031/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_100&tgt;p244_031/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_100&tgt;p244_031/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_100&tgt;p244_031/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_100&tgt;p244_031/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 </tr>
 
                 <tr>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/src/619.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/target_n/db1_002982.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <!-- <td style="width: 300px; text-align: center;"><audio src="" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="" controls="" preload="" style="width: 100%;"></audio></td> -->
-                    <td style="width: 300px; text-align: center;"><audio src="demos/Proposed/noise/619.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_260&tgt;p274_101/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_260&tgt;p274_101/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_260&tgt;p274_101/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_260&tgt;p274_101/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_260&tgt;p274_101/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="all/SMOS/VCTK/src;p274_260&tgt;p274_101/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 </tr>
-
-
-              
-                <tr>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/src/364.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="demos/target_n/db1_002982.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <!-- <td style="width: 300px; text-align: center;"><audio src="" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="" controls="" preload="" style="width: 100%;"></audio></td> -->
-                    <td style="width: 300px; text-align: center;"><audio src="demos/Proposed/noise/364.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                </tr>
-
 
             </tbody>
         </table>
@@ -302,10 +261,6 @@ One-shot voice conversion (VC) is a method that enables the transformation betwe
         <br>
 
 
-
-        <footer class="site-footer">
-            <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com/">GitHubPages</a>.</span>
-        </footer>
     </section>
 </body>
 
