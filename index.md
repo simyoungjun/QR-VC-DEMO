@@ -55,37 +55,6 @@ One-shot voice conversion (VC) is a method that enables the transformation betwe
 <!DOCTYPE html>
 <html lang="en-US">
 
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-
-
-  <title>Vec-Tok-VC+</title>
-  <meta name="generator" content="Jekyll v3.9.0">
-  <meta property="og:title" content="TODO: title">
-  <meta property="og:locale" content="en_US">
-
-  <meta name="twitter:card" content="summary">
-
-
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#157878">
-  <link rel="stylesheet" href="style.css">
-  <style>
-    .method {
-        display: inline-block;
-        font-weight: bold;
-    }
-
-    .explanation {
-      display: inline-block;
-    }
-  </style>
-</head>
-
-
-
-
 
 <body data-new-gr-c-s-check-loaded="14.1001.0" data-gr-ext-installed="">
     <section class="page-header">
@@ -94,29 +63,6 @@ One-shot voice conversion (VC) is a method that enables the transformation betwe
     </section>
 
     <section class="main-content">
-        <h1 id="">
-            <center>Vec-Tok-VC+: Residual-enhanced Robust Zero-shot Voice Conversion with Progressive Constraints in a Dual-mode Training Strategy</center>
-        </h1>
-
-        <h3 id="">
-            <center>Linhan Ma<sup>1</sup>, Xinfa Zhu<sup>1</sup>, Yuanjun Lv<sup>1</sup>, Zhichao Wang<sup>1</sup>, Ziqian Wang<sup>1</sup>, Wendi He<sup>2</sup>, Hongbin Zhou<sup>2</sup>, Lei Xie<sup>1</sup></center> 
-            <center><sup>1</sup>Audio, Speech and Language Processing Group (ASLP@NPU), School of Computer Science, Northwestern Polytechnical University, Xi'an, China </center>
-            <center><sup>2</sup>Ximalaya Inc, China</center>
-        </h3>
-        <center>Accepted by INTERSPEECH 2024</center>
-
-        <br><br>
-        <h2 id="abstract">Abstract<a name="abstract"></a></h2>
-        <p>Zero-shot voice conversion (VC) aims to transform source speech into arbitrary unseen target voice while keeping the linguistic content unchanged. 
-            Recent VC methods have made significant progress, but semantic losses in the decoupling process as well as training-inference mismatch still 
-            hinder conversion performance. In this paper, we propose Vec-Tok-VC+, a novel prompt-based zero-shot VC model improved from Vec-Tok Codec, 
-            achieving voice conversion given only a 3s target speaker prompt. We design a residual-enhanced K-Means decoupler to enhance the semantic content
-            extraction with a two-layer clustering process. Besides, we employ teacher-guided refinement to simulate the conversion process to eliminate the 
-            training-inference mismatch, forming a dual-mode training strategy. Furthermore, we design a multi-codebook progressive loss function to constrain
-            the layer-wise output of the model from coarse to fine to improve speaker similarity and content accuracy. Objective and subjective evaluations 
-            demonstrate that Vec-Tok-VC+ outperforms the strong baselines in naturalness, intelligibility, and speaker similarity.</p>
-        <br><br>
-
         <table border=0 frame=void rules=none>
             <tr>
                 <td>
