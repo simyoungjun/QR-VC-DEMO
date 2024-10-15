@@ -33,7 +33,7 @@ layout: default
 
 
 
-        <h2 id="demos">DEMO 1. (VCTK Seen Source and Target, both of them are random sampled, and converted by only one utterance)<a name="demos"></a></h2>
+        <h2 id="demos">DEMO 1. (Seen-to-seen scenarios with VCTK test set)<a name="demos"></a></h2>
         
 
         <table>
@@ -126,7 +126,7 @@ layout: default
 
 
 
-        <h2 id="demos">DEMO 2. (LibriTTS Unseen Source and Target, both of them are random sampled, and converted by only one utterance)<a name="demos"></a></h2>
+        <h2 id="demos">DEMO 2. (Unseen-to-unseen scenarios with LibriTTS test set)<a name="demos"></a></h2>
 
         <table>
             <thead>
