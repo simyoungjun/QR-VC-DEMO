@@ -139,7 +139,7 @@ layout: default
                     <td style="width: 300px; text-align: center;"><audio src="MOS/src;3729-6852-0037&tgt;1221-135766-0010/ssr_vc.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 </tr>
                 <tr>
-                    <td style="width: 300px; text-align: center;"><audio src="MOS/src;2094-142345-0051&tgt;5142-33396-0053/_src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="MOS/src;2094-142345-0051&tgt;5142-33396-0053/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
                     <td style="width: 300px; text-align: center;"><audio src="MOS/src;2094-142345-0051&tgt;5142-33396-0053/_tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
                     <td style="width: 300px; text-align: center;"><audio src="MOS/src;2094-142345-0051&tgt;5142-33396-0053/ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
                     <td style="width: 300px; text-align: center;"><audio src="MOS/src;2094-142345-0051&tgt;5142-33396-0053/dddmvc.wav" controls="" preload="" style="width: 100%;"></audio></td>
