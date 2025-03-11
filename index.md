@@ -51,12 +51,13 @@ layout: default
             <tbody>
 
                 <tr>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/FreeVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/YourTTS.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                    <td style="width: 300px; text-align: center;"><audio src="all/MOS/VCTK/src;p227_044&tgt;p300_388/VQMIVC.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="MOS/src;p227_044&tgt;p300_388/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="MOS/src;p227_044&tgt;p300_388/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="MOS/src;p227_044&tgt;p300_388/Ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="MOS/src;p227_044&tgt;p300_388/dddmvc.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="MOS/src;p227_044&tgt;p300_388/knnvc.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="MOS/src;p227_044&tgt;p300_388/sef-vc.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                    <td style="width: 300px; text-align: center;"><audio src="MOS/src;p227_044&tgt;p300_388/ssr_vc.wav" controls="" preload="" style="width: 100%;"></audio></td>
                 </tr>
 
                 <tr>
