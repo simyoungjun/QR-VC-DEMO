@@ -33,7 +33,7 @@ layout: default
 
 
 
-        <h2 id="demos">DEMO 1. Naturalness Test (MOS)<a name="demos"></a></h2>
+        <h2 id="demos">DEMO: Unseen-to-Unseen<a name="demos"></a></h2>
         
 
         <table>
