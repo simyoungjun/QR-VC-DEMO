@@ -23,19 +23,7 @@ layout: default
        
         <br><br>
         <h2 id="abstract">Abstract<a name="abstract"></a></h2>
-        <p>Zero-shot voice conversion is a technique that alters the speaker identity of an input speech to match a target
- speaker using only a single reference utterance, without requiring additional training. Recent approaches extensively uti
-lize self-supervised learning features with K-means quantization to extract high-quality content representations while removing
- speaker identity. However, this quantization process also eliminates fine-grained phonetic and prosodic variations, degrading
- intelligibility and prosody preservation. While prior works have primarily focused on quantized representations, quantization
- residuals remain underutilized and deserve further exploration. In this paper, we introduce a novel approach that fully uti
-lizes quantization residuals by leveraging temporal properties of speech components. This facilitates the disentanglement of
- speaker identity and the recovery of phonetic and prosodic details lost during quantization. By applying only K-means quantization
- and linear projections, our method achieves simple yet effective disentanglement, without requiring complex architectures or
- explicit supervision. This allows for high-fidelity voice conversion trained solely with reconstruction losses. Experiments show that
- the proposed model outperforms existing methods across both subjective and objective metrics. It achieves superior intelli
-gibility and speaker similarity, along with improved prosody preservation, highlighting the impact of our Linear Disentangler
- module.</p>
+        <p>Zero-shot voice conversion is a technique that alters the speaker identity of an input speech to match a target speaker using only a single reference utterance, without requiring additional training. Recent approaches extensively utilize self-supervised learning features with K-means quantization to extract high-quality content representations while removing speaker identity. However, this quantization process also eliminates fine-grained phonetic and prosodic variations, degrading intelligibility and prosody preservation. While prior works have primarily focused on quantized representations, quantization residuals remain underutilized and deserve further exploration. In this paper, we introduce a novel approach that fully utilizes quantization residuals by leveraging temporal properties of speech components. This facilitates the disentanglement of speaker identity and the recovery of phonetic and prosodic details lost during quantization. By applying only K-means quantization and linear projections, our method achieves simple yet effective disentanglement, without requiring complex architectures or explicit supervision. This allows for high-fidelity voice conversion trained solely with reconstruction losses. Experiments show that the proposed model outperforms existing methods across both subjective and objective metrics. It achieves superior intelligibility and speaker similarity, along with improved prosody preservation, highlighting the impact of our Linear Disentangler module.</p>
         <br><br>
 
        
