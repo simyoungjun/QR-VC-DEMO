@@ -52,7 +52,7 @@ layout: default
         <br><br>
 
        
-        /**<br><br>
+        <br><br>
 
 
 
@@ -78,14 +78,14 @@ layout: default
                 <tbody>
     
                     <tr>
-                        <td style="width: 300px; text-align: center;"><audio src="sample/src;61-70968-0000&tgt;2300-131720-0028/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                        <td style="width: 300px; text-align: center;"><audio src="sample/src;61-70968-0000&tgt;2300-131720-0028/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                        <td style="width: 300px; text-align: center;"><audio src="sample/src;61-70968-0000&tgt;2300-131720-0028/ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                        <td style="width: 300px; text-align: center;"><audio src="sample/src;61-70968-0000&tgt;2300-131720-0028/dddmvc.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                        <td style="width: 300px; text-align: center;"><audio src="sample/src;61-70968-0000&tgt;2300-131720-0028/phoneme_hallucinator_vol07.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                        <td style="width: 300px; text-align: center;"><audio src="sample/src;61-70968-0000&tgt;2300-131720-0028/knnvc_vol07.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                        <td style="width: 300px; text-align: center;"><audio src="sample/src;61-70968-0000&tgt;2300-131720-0028/sef-vc.wav" controls="" preload="" style="width: 100%;"></audio></td>
-                        <td style="width: 300px; text-align: center;"><audio src="sample/src;61-70968-0000&tgt;2300-131720-0028/ssr_vc.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                        <td style="width: 500px; text-align: center;"><audio src="sample/src;61-70968-0000&tgt;2300-131720-0028/src.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                        <td style="width: 500px; text-align: center;"><audio src="sample/src;61-70968-0000&tgt;2300-131720-0028/tgt.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                        <td style="width: 500px; text-align: center;"><audio src="sample/src;61-70968-0000&tgt;2300-131720-0028/ours.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                        <td style="width: 500px; text-align: center;"><audio src="sample/src;61-70968-0000&tgt;2300-131720-0028/dddmvc.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                        <td style="width: 500px; text-align: center;"><audio src="sample/src;61-70968-0000&tgt;2300-131720-0028/phoneme_hallucinator_vol07.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                        <td style="width: 500px; text-align: center;"><audio src="sample/src;61-70968-0000&tgt;2300-131720-0028/knnvc_vol07.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                        <td style="width: 500px; text-align: center;"><audio src="sample/src;61-70968-0000&tgt;2300-131720-0028/sef-vc.wav" controls="" preload="" style="width: 100%;"></audio></td>
+                        <td style="width: 500px; text-align: center;"><audio src="sample/src;61-70968-0000&tgt;2300-131720-0028/ssr_vc.wav" controls="" preload="" style="width: 100%;"></audio></td>
                     </tr>
     
                     <tr>
